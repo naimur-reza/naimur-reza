@@ -31,7 +31,7 @@ I also like to help and contribute as much as I can.
 
 ## Reach Me Out
 <p align="left">  
-<a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
+<a href="https://www.linkedin.com/in//naimur-reza-35684a21a/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
 <a href="https://www.facebook.com/iamrezadadu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="45"></a>
 <a href="https://www.instagram.com/_rezadadu_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
 </p>
