@@ -40,9 +40,9 @@ I also like to help and contribute as much as I can.
 ## Current Stats
 <div align="center" >
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rezadadu&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezadadu&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rezadadu&theme=github_dark&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezadadu&theme=github_dark" width="98%">
