@@ -1,5 +1,5 @@
 
-## Hi there, I'm Naimur Reza 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <img src="/naimur_reza_anik.png"/></a>
 
 ## About Me
