@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36ECF7&center=true&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <img src="/naimur_reza_anik.png"/></a>
 
 ## About Me
