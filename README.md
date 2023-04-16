@@ -22,7 +22,10 @@ I also like to help and contribute as much as I can.
 |--|--|--|--|--|--|
  
 ### ⚡Backend
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>|<img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>|<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>|
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>|<img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>|<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="firebase" width="40"/>|
+ 
+ 
+ https://banner2.cleanpng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg
 |--|--|--|--|
 
 ### ⚡Tools
