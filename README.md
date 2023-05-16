@@ -8,8 +8,8 @@ enthusiastic learner, and always looking for opportunities to learn new technolo
 I also like to help and contribute as much as I can.
 
 ## Current Overview
-#### 🥅 Goals of 2023 - JavaScript, React, Mongodb NextJS, Redux, Typescript, GraphQL, MySQL
-#### 🤝 I’m looking - To collaborate on open-source projects
+#### 🥅 Goals of 2023 - JavaScript, React, Mongodb NextJS, Redux, Typescript, GraphQL, MySQL  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+#### 🤝 I’m looking - To collaborate on open-source projects 
 #### 🧣 I’m currently - Learning MongoDB
 #### 💤 Fun fact - Still thinking..
 
