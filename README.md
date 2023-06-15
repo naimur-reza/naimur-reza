@@ -13,7 +13,7 @@ I also like to help and contribute as much as I can.
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning MongoDB
+#### 🧣 I’m currently - Learning Next Js
 
 #### 💤 Fun fact - Still thinking..
 
