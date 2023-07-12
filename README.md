@@ -3,9 +3,8 @@
 
 ## About Me
 
-I'm a Web Developer with experience in building web platforms. Who is a hardworking, confident,
-enthusiastic learner, and always looking for opportunities to learn new technologies. In addition,
-I also like to help and contribute as much as I can.
+Self-motivated and adaptable web developer with a strong passion for continuous
+learning and staying up-to-date with the latest industry trends and technologies.
 
 ## Current Overview
 
