@@ -14,7 +14,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 
 #### 🧣 I’m currently - Learning Next Js
 
-#### 💤 Fun fact - Still thinking..
+#### 💤 Fun fact - Still thinking.. 
 
 <br/>
 
