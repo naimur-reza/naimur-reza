@@ -35,9 +35,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 
-## Snake Eating My Contribution
 
-<img alt="snake eating my contribution" src="https://github.com/naimur-reza/naimur-reza/blob/output/github-contribution-grid-snake.svg">
 
 ## Reach Me Out
 
