@@ -8,7 +8,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 
 ## Current Overview
 
-#### 🥅 Goals of 2023 - JavaScript, React, Mongodb NextJS, Redux, Typescript, GraphQL, MySQL <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+#### 🥅 Goals of 2023 - GraphQL, MySQL <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
