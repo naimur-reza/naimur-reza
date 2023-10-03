@@ -32,8 +32,8 @@ learning and staying up-to-date with the latest industry trends and technologies
 
 ### ⚡Tools
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/> | 
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
 
@@ -52,6 +52,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
+ 
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=github_dark" width="98%">
