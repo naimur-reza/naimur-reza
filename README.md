@@ -5,7 +5,7 @@
  
 Self-motivated and adaptable web developer with a strong passion for continuous
 learning and staying up-to-date with the latest industry trends and technologies.
-
+ 
 ## Current Overview
 
 #### 🥅 Goals of 2023 - GraphQL, MySQL, Prisma, Docker, Go, React-Native, PostgresQL, AWS <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
