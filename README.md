@@ -2,7 +2,7 @@
 <img src="/naimur_reza_anik.png"/></a> 
 
 ## About Me
- 
+  
 Self-motivated and adaptable web developer with a strong passion for continuous
 learning and staying up-to-date with the latest industry trends and technologies.
  
