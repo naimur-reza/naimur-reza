@@ -4,7 +4,7 @@
 ## About Me
   
 Self-motivated and adaptable web developer with a strong passion for continuous
-learning and staying up-to-date with the latest industry trends and technologies. 
+learning and staying up-to-date with the latest industry trends and technologies.  
  
 ## Current Overview
  
