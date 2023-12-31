@@ -15,7 +15,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 #### 🧣 I’m currently - Mastering Mongoose & Typescript
 
 #### 💤 Fun fact - Still thinking.. 
-
+ 
 <br/>
 
 ## Technologies That I Know
