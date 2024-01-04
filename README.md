@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <img src="/naimur_reza_anik.png"/></a> 
- 
+  
 ## About Me 
   
 Self-motivated and adaptable web developer with a strong passion for continuous
