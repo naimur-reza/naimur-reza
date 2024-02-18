@@ -31,20 +31,93 @@ learning and staying up-to-date with the latest industry trends and technologies
 
 ## Technologies That I Know
 
-### ⚡Frontend
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="next-js" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material-ui" width="40"/> |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-
-### ⚡Backend
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40"/> |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-
-### ⚡Tools
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/> |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
+      <br>Express JS
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="65" height="65" alt="Appwrite" />
+      <br>Appwrite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="NextAuth" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="65" height="65" />
+      <br>Tailwind CSS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 ## Reach Me Out
 
