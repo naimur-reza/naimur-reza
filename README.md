@@ -1,13 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <img width="100%" src="/naimur_reza_anik.png"/> 
- 
-## About Me
 
-Self-motivated and adaptable web developer with a strong passion for continuous
-learning and staying up-to-date with the latest industry trends and technologies.
-
-
-## Current overview
+## :eyes: Current overview
 
 <div align="left">
 <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/d3efa6f522d145418c8931d3e48faec2.png?r=xpz" width="200" alt="Naimur Reza's Dev Card"/></a>
@@ -29,7 +23,7 @@ learning and staying up-to-date with the latest industry trends and technologies
 
  
 
-## Technologies That I Know
+## :computer: Technologies that I know
 
 <table>
   <tr>
@@ -119,16 +113,17 @@ learning and staying up-to-date with the latest industry trends and technologies
   </tr>
 </table>
 
-## Reach Me Out
+## :mailbox: Reach me out
 
-<p align="left">  
-<a href="https://www.linkedin.com/in//naimur-reza-35684a21a/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
-<a href="https://www.facebook.com/iamrezadadu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="45"></a>
-<a href="https://www.instagram.com/_rezadadu_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
-</p>
+<br />
+
+[<p align="center"><img height="75" src="/images/Linkedin.png">](https://www.linkedin.com/in/naimur-reza/)[<img height="75" src="/images/Facebook.png">](https://www.facebook.com/imrezadadu)[<img height="75" src="/images/Twitter.png"> </p>](https://twitter.com/NaimurReza3)
+
+<br />
  
  
-## Current Stats
+## :chart_with_upwards_trend: Current Stats
+
 <div align="center" >
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
