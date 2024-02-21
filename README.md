@@ -4,16 +4,13 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/d3efa6f522d145418c8931d3e48faec2.png?r=xpz" width="200" alt="Naimur Reza's Dev Card"/></a>
+ <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=wide&r=vyc" width="420" alt="Naimur Reza's Dev Card"/></a>
 </div>
 
-#### 🥅 Goals of 2024 - GraphQL, MySQL, Prisma, Docker, Go, React-Native, PostgresQL, AWS 
-
-#### 🤝 I’m looking - To collaborate on open-source projects
-
-#### 🧣 I’m currently - Mastering Mongoose & Typescript
-
-#### 💤 Fun fact - Still thinking.. 
+### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
+### 🤝 I’m looking - To collaborate on open-source projects
+### 🧣 I’m currently - Learning PostgreSql and System designing
+### 💤 Fun fact - I love to play virtual games 
 
 
 <br />
