@@ -1,28 +1,33 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Naimur+Reza;Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 <img width="100%" src="/naimur_reza_anik.png"/> 
 
-## :eyes: Current overview
 
-<div align="left">
- <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=wide&r=vyc" width="420" alt="Naimur Reza's Dev Card"/></a>
+## :chart_with_upwards_trend: Current Stats
+
+<div align="center" >
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
+ 
 </div>
 
-### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
-### 🤝 I’m looking - To collaborate on open-source projects
-### 🧣 I’m currently - Learning PostgreSql and System designing
-### 💤 Fun fact - I love to play virtual games 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=github_dark" width="98%">
+</div>
 
+## :mailbox: Reach me out
 
-<br />
-<br />
-<br />
 <br />
 
+[<p align="center"><img height="75" src="/images/Linkedin.png">](https://linkedin.com/in/naimur-reza)[<img height="75" src="/images/Facebook.png">](https://www.facebook.com/imrezadadu)[<img height="75" src="/images/Twitter.png"> </p>](https://twitter.com/NaimurReza3)
+
+<br />
+ 
  
 
 ## :computer: Technologies that I know
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
@@ -110,24 +115,14 @@
   </tr>
 </table>
 
-## :mailbox: Reach me out
 
-<br />
+ ## :eyes: Current overview
 
-[<p align="center"><img height="75" src="/images/Linkedin.png">](https://linkedin.com/in/naimur-reza)[<img height="75" src="/images/Facebook.png">](https://www.facebook.com/imrezadadu)[<img height="75" src="/images/Twitter.png"> </p>](https://twitter.com/NaimurReza3)
-
-<br />
- 
- 
-## :chart_with_upwards_trend: Current Stats
-
-<div align="center" >
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
- 
+<div align="left">
+ <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="220" alt="Naimur Reza's Dev Card"/></a>
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=github_dark" width="98%">
-</div>
+### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
+### 🤝 I’m looking - To collaborate on open-source projects
+### 🧣 I’m currently - Learning PostgreSql and System designing
+### 💤 Fun fact - I love to play virtual games 
