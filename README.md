@@ -119,7 +119,7 @@
  ## :eyes: Current overview
 
 <div align="left">
- <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="220" alt="Naimur Reza's Dev Card"/></a>
+ <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="200" alt="Naimur Reza's Dev Card"/></a>
 </div>
 
 ### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
