@@ -4,7 +4,7 @@
   
 ## :chart_with_upwards_trend: Current Stats
  
-<div align="center" >
+<div align="center" > 
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
