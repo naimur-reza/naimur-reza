@@ -125,5 +125,5 @@
 
 ### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
 ### 🤝 I’m looking - To collaborate on open-source projects
-### 🧣 I’m currently - Learning PostgreSql and System designing
+### 🧣 I’m currently - Learning Testing and React-Native
 ### 💤 Fun fact - I love to play virtual games 
