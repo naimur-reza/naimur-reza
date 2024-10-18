@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=33&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 <img width="100%" src="/naimur_reza_anik.png"/> 
-   
+    
         
 ## :chart_with_upwards_trend: Current Stats
  
