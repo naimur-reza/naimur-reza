@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/naimur-reza">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/imrezadadu">
+  <a href="https://www.facebook.com/iamrezadadu">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Facebook.png">
   </a>
   <a href="https://twitter.com/NaimurReza3">
