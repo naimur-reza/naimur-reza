@@ -135,7 +135,7 @@
  <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="200" alt="Naimur Reza's Dev Card"/></a>
 </div>
 
-### 🥅 Goals of 2024 - GraphQL, React-Native, PostgresQL, AWS
+### 🥅 Goals of 2025 - Docker, Kubernates, CI/CD, Go, AWS 
 ### 🤝 I’m looking - To collaborate on open-source projects
 ### 🧣 I’m currently - Learning Testing and React-Native
 ### 💤 Fun fact - I love to play virtual games 
