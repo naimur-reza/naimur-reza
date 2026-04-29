@@ -1,95 +1,25 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1600 760.9" xml:space="preserve" role="img" aria-labelledby="title desc">
-  <title id="title">Naimur Reza animated neon profile cover</title>
-  <desc id="desc">Illustrator-style glassmorphism cover with animated neon line strokes for GitHub profile README.</desc>
-
-  <style>
-    .fontMedium{font-family:'Poppins','Segoe UI',Arial,sans-serif;font-weight:500}.fontBold{font-family:'Poppins','Segoe UI',Arial,sans-serif;font-weight:800}.st28{fill:#5fcae7}.st29{opacity:.9;fill:#f7fbfe;enable-background:new}.st30{font-size:12px}.st31{fill:#be57a1}.st32{fill:#998ac2}
-    .waveLine{stroke-dasharray:1200;stroke-dashoffset:1200;animation:drawFlow 6.5s ease-in-out infinite,glowPulse 3.2s ease-in-out infinite;filter:drop-shadow(0 0 5px #5fcae7) drop-shadow(0 0 12px #be57a1)}
-    .waveLine:nth-of-type(2n){animation-delay:-.45s}.waveLine:nth-of-type(3n){animation-delay:-.9s}.waveLine:nth-of-type(4n){animation-delay:-1.35s}.waveLine:nth-of-type(5n){animation-delay:-1.8s}
-    .thinLine{stroke-dasharray:950;stroke-dashoffset:950;animation:drawFlow 8s ease-in-out infinite,softPulse 4s ease-in-out infinite;filter:drop-shadow(0 0 3px #5fcae7)}
-    .floatCard{animation:floatCard 5.5s ease-in-out infinite}.orbitDot{animation:dotPulse 3.2s ease-in-out infinite}.orbitDot:nth-child(2){animation-delay:-.6s}.orbitDot:nth-child(3){animation-delay:-1.2s}.orbitDot:nth-child(4){animation-delay:-1.8s}
-    .logoPulse{animation:logoPulse 4s ease-in-out infinite}.cardPulse{animation:cardPulse 5s ease-in-out infinite}
-    @keyframes drawFlow{0%{stroke-dashoffset:1200}45%{stroke-dashoffset:0}70%{stroke-dashoffset:0}100%{stroke-dashoffset:-1200}}
-    @keyframes glowPulse{0%,100%{opacity:.13}50%{opacity:1}}
-    @keyframes softPulse{0%,100%{opacity:.06}50%{opacity:.48}}
-    @keyframes dotPulse{0%,100%{opacity:.35;r:4}50%{opacity:1;r:7}}
-    @keyframes floatCard{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-    @keyframes logoPulse{0%,100%{opacity:.2}50%{opacity:.42}}
-    @keyframes cardPulse{0%,100%{opacity:.72}50%{opacity:.9}}
-  </style>
-
-  <defs>
-    <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="1637.582" x2="1600" y2="877.582" gradientTransform="matrix(1 0 0 -1 0 1638.532)">
-      <stop offset="0" stop-color="#0a0c0f"/><stop offset=".52" stop-color="#10141a"/><stop offset="1" stop-color="#0a0c0f"/>
-    </linearGradient>
-    <radialGradient id="pinkGlow" cx="486.899" cy="824.574" r="1" gradientTransform="rotate(-18 568520.564 626552.6)scale(455 -175)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#be57a1" stop-opacity=".72"/><stop offset="1" stop-color="#be57a1" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="cyanGlow" cx="486.986" cy="824.154" r="1" gradientTransform="rotate(-18 632329.197 779032.811)scale(560 -190)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#5fcae7" stop-opacity=".64"/><stop offset="1" stop-color="#5fcae7" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="waveG" gradientUnits="userSpaceOnUse" x1="0" y1="736" x2="1600" y2="136">
-      <stop offset="0" stop-color="#be57a1"><animate attributeName="stop-color" values="#be57a1;#ff27f8;#7563ab;#be57a1" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset=".48" stop-color="#7563ab"><animate attributeName="stop-color" values="#7563ab;#5fcae7;#be57a1;#7563ab" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#5fcae7"><animate attributeName="stop-color" values="#5fcae7;#45b75f;#5fcae7" dur="7s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <linearGradient id="cardFill" gradientUnits="userSpaceOnUse" x1="361.884" y1="1471.726" x2="1241.883" y2="1071.726" gradientTransform="matrix(1 0 0 -1 0 1638.532)">
-      <stop offset="0" stop-color="#fff" stop-opacity=".24"/><stop offset=".5" stop-color="#fff" stop-opacity=".105"/><stop offset="1" stop-color="#fff" stop-opacity=".055"/>
-    </linearGradient>
-    <linearGradient id="cardStroke" gradientUnits="userSpaceOnUse" x1="362.33" y1="1471.523" x2="1241.433" y2="1071.931" gradientTransform="matrix(1 0 0 -1 0 1638.532)">
-      <stop offset="0" stop-color="#fff" stop-opacity=".72"/><stop offset=".45" stop-color="#be57a1" stop-opacity=".38"/><stop offset="1" stop-color="#5fcae7" stop-opacity=".66"/>
-    </linearGradient>
-  </defs>
-
-  <path fill="url(#bg)" d="M0 .9h1600v760H0z"/>
-  <path fill="url(#pinkGlow)" d="M0 .9h1600v760H0z"/>
-  <path fill="url(#cyanGlow)" d="M0 .9h1600v760H0z"/>
-
-  <g opacity=".12">
-    <path d="M0 80.9h1600M0 160.9h1600M0 240.9h1600M0 320.9h1600M0 400.9h1600M0 480.9h1600M0 560.9h1600M0 640.9h1600M100 .9v760M230 .9v760M360 .9v760M490 .9v760M620 .9v760M750 .9v760M880 .9v760m130-760v760m130-760v760m130-760v760m130-760v760m130-760v760" fill="none" stroke="#95a3b8"/>
-  </g>
-
-  <g>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 675.9c280-115 470-163 650-145 130 13 200 65 325-10 135-81 170-170 300-180 150-11 270-120 535-220"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 650.9c280-110 470-155 650-138 135 13 203 58 328-12 134-76 176-166 308-174 149-10 268-121 524-221"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 625.9c280-105 472-147 652-130 136 12 206 53 332-13 134-72 181-161 314-169 147-9 264-122 512-222"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 600.9c280-100 475-138 655-122 137 12 210 49 337-13 133-68 185-156 318-163 146-8 262-124 500-224"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 575.9c282-93 480-127 662-111 138 12 212 45 340-14 133-63 189-150 323-157 145-7 260-125 485-226"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 550.9c288-84 488-114 672-98 140 12 214 42 343-14 132-59 193-144 327-150 145-7 258-128 468-230"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 525.9c296-74 498-99 685-82 140 13 216 41 347-12 130-53 194-137 328-141 145-5 256-131 450-236"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 500.9c310-61 512-81 700-62 142 14 220 42 352-8 128-48 196-129 330-129 143 0 253-135 428-246"/>
-    <path class="waveLine" style="fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round" d="M-120 475.9c328-45 530-59 720-35 142 18 222 45 355-1 125-43 195-122 330-115 142 7 250-142 405-259"/>
-  </g>
-
-  <g opacity=".7">
-    <path class="thinLine" style="fill:none;stroke:url(#waveG);stroke-width:1.4;stroke-linecap:round" d="M-100 720.9c270-130 465-190 660-172 130 12 200 62 325-13s165-155 295-167c155-14 270-123 500-203"/>
-    <path class="thinLine" style="fill:none;stroke:url(#waveG);stroke-width:1.4;stroke-linecap:round" d="M-100 700.9c285-115 490-168 680-145 140 17 210 62 335-9 123-70 170-146 295-152 150-8 260-119 470-199"/>
-    <path class="thinLine" style="fill:none;stroke:url(#waveG);stroke-width:1.4;stroke-linecap:round" d="M-100 735.9c230-140 430-215 620-200 130 10 215 65 335-10 130-80 170-160 300-175 155-18 280-125 525-205"/>
-  </g>
-
-  <g class="floatCard">
-    <path class="cardPulse" style="opacity:.75;fill:url(#cardFill);stroke:url(#cardStroke)" d="M372 155.9h856c12.2 0 22 9.8 22 22v376c0 12.2-9.8 22-22 22H372c-12.2 0-22-9.8-22-22v-376c0-12.1 9.8-22 22-22z"/>
-    <path d="M372 158.9h856c10.5 0 19 8.5 19 19v376c0 10.5-8.5 19-19 19H372c-10.5 0-19-8.5-19-19v-376c0-10.4 8.5-19 19-19" fill="#fff" fill-opacity=".035"/>
-
-    <path class="logoPulse" d="M1390.8 589.9h-71.3l-52.7-136.7h-186.7l-49.6 136.7h-66.7l.8-2 173.8-452.5h66.4l.4.9zm-69.3-3h64.8l-183.6-448.5h-62.3L968.2 586.9h60.2l49.6-136.7h190.9zm-70-182.4h-157.4l50.3-134.5c10.4-28.3 18.6-57.2 24.3-86l2.9-.1c6.9 24.3 17.7 55.7 32 93.5zm-153.1-3h148.7l-46.4-123c-13.2-34.9-23.4-64.4-30.4-87.9-5.7 26.9-13.5 54-23.2 80.5z" fill="none" stroke="#f7fbfe" stroke-opacity=".32" stroke-width="2"/>
-
-    <text transform="translate(390 215.95)" class="fontBold" style="fill:#e7e7eb;font-size:24px;letter-spacing:10">NAIMUR REZA</text>
-    <text transform="translate(390 516.95)" class="fontMedium" style="opacity:.92;fill:#e6e7eb;font-size:14px">Full-Stack Web Developer</text>
-
-    <g transform="translate(390 532)">
-      <circle class="st28" cx="8" cy="8.9" r="7.5"/>
-      <text transform="translate(22 13.95)" class="st29 fontMedium st30">github.com/naimur-reza</text>
-      <circle class="st31" cx="278" cy="8.9" r="7.5"/>
-      <text transform="translate(292 13.95)" class="st29 fontMedium st30">linkedin.com/in/naimur-reza</text>
-      <circle class="st32" cx="600" cy="8.9" r="7.5"/>
-      <text transform="translate(614 13.95)" class="st29 fontMedium st30">naimur.rezaa@gmail.com</text>
-    </g>
-  </g>
-
-  <g opacity=".9">
-    <circle class="st31 orbitDot" cx="240" cy="625.9" r="4"/>
-    <circle class="st32 orbitDot" cx="720" cy="516.9" r="4"/>
-    <circle class="st28 orbitDot" cx="1120" cy="340.9" r="4"/>
-    <circle class="orbitDot" cx="1360" cy="205.9" r="4" fill="#45b75f"/>
-  </g>
+<svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' x='0' y='0' viewBox='0 0 1600 760.9' xml:space='preserve' role='img' aria-labelledby='title desc'>
+<title id='title'>Naimur Reza animated neon profile cover</title>
+<desc id='desc'>Latest Illustrator-style neon glass profile cover with animated line strokes.</desc>
+<style>
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=swap);
+.t{font-family:Poppins,Segoe UI,Arial,sans-serif}.name{font-weight:800;font-size:33px;letter-spacing:12px;fill:#e7e7eb;opacity:.5}.role{font-weight:500;font-size:24px;fill:#e6e7eb;opacity:.5}.meta{font-weight:500;font-size:16px;fill:#f7fbfe;opacity:.5}.wave{opacity:.2;fill:none;stroke:url(#waveG);stroke-width:2.6;stroke-linecap:round;stroke-dasharray:1250;stroke-dashoffset:1250;filter:drop-shadow(0 0 5px #5fcae7) drop-shadow(0 0 14px #be57a1);animation:draw 6.5s ease-in-out infinite,pulse 3.1s ease-in-out infinite}.wave:nth-of-type(2n){animation-delay:-.45s}.wave:nth-of-type(3n){animation-delay:-.9s}.wave:nth-of-type(4n){animation-delay:-1.35s}.wave:nth-of-type(5n){animation-delay:-1.8s}.thin{opacity:.15;fill:none;stroke:url(#waveG);stroke-width:1.4;stroke-linecap:round;stroke-dasharray:1000;stroke-dashoffset:1000;filter:drop-shadow(0 0 4px #5fcae7);animation:drawThin 8s ease-in-out infinite,softPulse 4s ease-in-out infinite}.dot{animation:dotPulse 3.2s ease-in-out infinite}.dot:nth-child(2){animation-delay:-.6s}.dot:nth-child(3){animation-delay:-1.2s}.dot:nth-child(4){animation-delay:-1.8s}.card{animation:cardPulse 5s ease-in-out infinite}.logo{animation:logoPulse 4s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:1250}45%{stroke-dashoffset:0}70%{stroke-dashoffset:0}100%{stroke-dashoffset:-1250}}@keyframes drawThin{0%{stroke-dashoffset:1000}45%{stroke-dashoffset:0}70%{stroke-dashoffset:0}100%{stroke-dashoffset:-1000}}@keyframes pulse{0%,100%{opacity:.13}50%{opacity:1}}@keyframes softPulse{0%,100%{opacity:.06}50%{opacity:.48}}@keyframes dotPulse{0%,100%{opacity:.35;r:4}50%{opacity:1;r:7}}@keyframes cardPulse{0%,100%{opacity:.75}50%{opacity:.9}}@keyframes logoPulse{0%,100%{opacity:.35}50%{opacity:.62}}
+</style>
+<defs>
+<linearGradient id='bg' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='1600' y2='760'><stop offset='0' stop-color='#0a0c0f'/><stop offset='.52' stop-color='#10141a'/><stop offset='1' stop-color='#0a0c0f'/></linearGradient>
+<radialGradient id='pinkGlow' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(315 650) rotate(-18) scale(455 175)'><stop offset='0' stop-color='#be57a1' stop-opacity='.72'/><stop offset='1' stop-color='#be57a1' stop-opacity='0'/></radialGradient>
+<radialGradient id='cyanGlow' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(1190 330) rotate(-18) scale(560 190)'><stop offset='0' stop-color='#5fcae7' stop-opacity='.64'/><stop offset='1' stop-color='#5fcae7' stop-opacity='0'/></radialGradient>
+<linearGradient id='waveG' gradientUnits='userSpaceOnUse' x1='0' y1='736' x2='1600' y2='136'><stop offset='0' stop-color='#be57a1'><animate attributeName='stop-color' values='#be57a1;#ff27f8;#7563ab;#be57a1' dur='7s' repeatCount='indefinite'/></stop><stop offset='.48' stop-color='#7563ab'><animate attributeName='stop-color' values='#7563ab;#5fcae7;#be57a1;#7563ab' dur='7s' repeatCount='indefinite'/></stop><stop offset='1' stop-color='#5fcae7'><animate attributeName='stop-color' values='#5fcae7;#45b75f;#5fcae7' dur='7s' repeatCount='indefinite'/></stop></linearGradient>
+<linearGradient id='cardFill' gradientUnits='userSpaceOnUse' x1='362' y1='167' x2='1242' y2='567'><stop offset='0' stop-color='#fff' stop-opacity='.24'/><stop offset='.5' stop-color='#fff' stop-opacity='.105'/><stop offset='1' stop-color='#fff' stop-opacity='.055'/></linearGradient>
+<linearGradient id='cardStroke' gradientUnits='userSpaceOnUse' x1='362' y1='167' x2='1242' y2='567'><stop offset='0' stop-color='#fff' stop-opacity='.72'/><stop offset='.45' stop-color='#be57a1' stop-opacity='.38'/><stop offset='1' stop-color='#5fcae7' stop-opacity='.66'/></linearGradient>
+</defs>
+<path fill='url(#bg)' d='M0 .9h1600v760H0z'/><path fill='url(#pinkGlow)' d='M0 .9h1600v760H0z'/><path fill='url(#cyanGlow)' d='M0 0h1600v760.9H0z'/>
+<g opacity='.12'><path d='M0 80.9h1600M0 160.9h1600M0 240.9h1600M0 320.9h1600M0 400.9h1600M0 480.9h1600M0 560.9h1600M0 640.9h1600M100 .9v760M230 .9v760M360 .9v760M490 .9v760M620 .9v760M750 .9v760M880 .9v760m130-760v760m130-760v760m130-760v760m130-760v760m130-760v760' fill='none' stroke='#95a3b8'/></g>
+<g><path class='wave' d='M-120 675.9c280-115 470-163 650-145 130 13 200 65 325-10 135-81 170-170 300-180 150-11 270-120 535-220'/><path class='wave' d='M-120 650.9c280-110 470-155 650-138 135 13 203 58 328-12 134-76 176-166 308-174 149-10 268-121 524-221'/><path class='wave' d='M-120 625.9c280-105 472-147 652-130 136 12 206 53 332-13 134-72 181-161 314-169 147-9 264-122 512-222'/><path class='wave' d='M-120 600.9c280-100 475-138 655-122 137 12 210 49 337-13 133-68 185-156 318-163 146-8 262-124 500-224'/><path class='wave' d='M-120 575.9c282-93 480-127 662-111 138 12 212 45 340-14 133-63 189-150 323-157 145-7 260-125 485-226'/><path class='wave' d='M-120 550.9c288-84 488-114 672-98 140 12 214 42 343-14 132-59 193-144 327-150 145-7 258-128 468-230'/><path class='wave' d='M-120 525.9c296-74 498-99 685-82 140 13 216 41 347-12 130-53 194-137 328-141 145-5 256-131 450-236'/><path class='wave' d='M-120 500.9c310-61 512-81 700-62 142 14 220 42 352-8 128-48 196-129 330-129 143 0 253-135 428-246'/><path class='wave' d='M-120 475.9c328-45 530-59 720-35 142 18 222 45 355-1 125-43 195-122 330-115 142 7 250-142 405-259'/></g>
+<g opacity='.7'><path class='thin' d='M-100 720.9c270-130 465-190 660-172 130 12 200 62 325-13s165-155 295-167c155-14 270-123 500-203'/><path class='thin' d='M-100 700.9c285-115 490-168 680-145 140 17 210 62 335-9 123-70 170-146 295-152 150-8 260-119 470-199'/><path class='thin' d='M-100 735.9c230-140 430-215 620-200 130 10 215 65 335-10 130-80 170-160 300-175 155-18 280-125 525-205'/></g>
+<path class='card' fill='url(#cardFill)' stroke='url(#cardStroke)' d='M372 155.9h856c12.2 0 22 9.8 22 22v376c0 12.2-9.8 22-22 22H372c-12.2 0-22-9.8-22-22v-376c0-12.1 9.8-22 22-22z'/><path fill='#fff' fill-opacity='.035' d='M372 158.9h856c10.5 0 19 8.5 19 19v376c0 10.5-8.5 19-19 19H372c-10.5 0-19-8.5-19-19v-376c0-10.4 8.5-19 19-19'/>
+<text class='t name' x='390' y='215.95'>NAIMUR REZA</text><text class='t role' x='390' y='505.45'>Full-Stack Web Developer</text>
+<g class='t meta' transform='translate(390 532)'><circle fill='#5fcae7' cx='8' cy='8.9' r='7.5'/><text x='22' y='13.95'>github.com/naimur-reza</text><circle fill='#be57a1' cx='278' cy='8.9' r='7.5'/><text x='292' y='13.95'>linkedin.com/in/naimur-reza</text><circle fill='#998ac2' cx='600' cy='8.9' r='7.5'/><text x='614' y='13.95'>naimur.rezaa@gmail.com</text></g>
+<g opacity='.9'><circle class='dot' fill='#be57a1' cx='240' cy='625.9' r='4'/><circle class='dot' fill='#998ac2' cx='720' cy='516.9' r='4'/><circle class='dot' fill='#5fcae7' cx='1120' cy='340.9' r='4'/><circle class='dot' fill='#45b75f' cx='1360' cy='205.9' r='4'/></g>
+<g class='logo' opacity='.5'><path fill='url(#cardStroke)' d='m1171.6 183.9-2.9.1c-5.7 28.8-13.9 57.7-24.3 86l-50.3 134.5H1250v-4l-46.4-123.1c-14.3-37.8-25.1-69.2-32-93.5m-73.2 217.6 48.7-130.4c9.7-26.5 17.5-53.6 23.2-80.5 7 23.5 17.2 53 30.4 87.9l46.4 123z'/><path fill='url(#cardStroke)' d='M1133.7 155.9h-3.2l-161.3 420h3.2zM1250 253.9v-8.1l-36.8-89.9h-3.3zM1078 450.2l-45.6 125.7h3.2l44.5-122.7H1250v-3z'/></g>
 </svg>
