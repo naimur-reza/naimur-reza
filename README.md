@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0ea5e9,75:8b5cf6,100:22c55e&height=230&section=header&text=Naimur%20Reza&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20clean%2C%20scalable%20web%20apps&descAlignY=58&descSize=18" width="100%" alt="Naimur Reza profile banner" />
+  <img src="./assets/neon-profile-wave.svg" width="100%" alt="Naimur Reza neon animated profile banner" />
 </p>
 
 <p align="center">
