@@ -1,0 +1,146 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Naimur Reza neon animated profile banner</title>
+  <desc id="desc">Glassmorphism developer card with animated neon wave lines pulsing from transparent to full color.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.5" stop-color="#090d16"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="640" x2="1520" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2df7">
+        <animate attributeName="stop-color" values="#ff2df7;#7c3aed;#00e5ff;#ff2df7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.48" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#00e5ff;#ff2df7;#8b5cf6" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#22c55e;#38bdf8;#00e5ff" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="cardStroke" x1="360" y1="180" x2="1230" y2="548" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0.65"/>
+      <stop offset="0.5" stop-color="#a78bfa" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0.75"/>
+    </linearGradient>
+
+    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(475 620) rotate(-18) scale(430 150)">
+      <stop stop-color="#ff2df7" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ff2df7" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1150 390) rotate(-22) scale(520 170)">
+      <stop stop-color="#00e5ff" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="190%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.19 0 0 0 0 0.88 0 0 0 0 1 0 0 0 0.9 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="bigGlow" x="-30%" y="-50%" width="160%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.44 0 0 0 0 0.85 0 0 0 0 1 0 0 0 0.8 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glassBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+
+    <style>
+      .name{font:800 47px 'Segoe UI',Arial,sans-serif;letter-spacing:14px;fill:#edf4ff}
+      .role{font:500 35px 'Segoe UI',Arial,sans-serif;fill:#dbeafe;opacity:.86}
+      .small{font:600 20px 'Segoe UI',Arial,sans-serif;fill:#e5e7eb;opacity:.86}
+      .tag{font:700 18px 'Segoe UI',Arial,sans-serif;fill:#c4f1ff}
+      .line{stroke:url(#wave);stroke-width:2.6;fill:none;stroke-linecap:round;filter:url(#softGlow);opacity:.35;animation:pulse 3.2s ease-in-out infinite, drift 8s ease-in-out infinite}
+      .line:nth-of-type(2n){animation-delay:-.5s}
+      .line:nth-of-type(3n){animation-delay:-1s}
+      .line:nth-of-type(4n){animation-delay:-1.5s}
+      .grid{stroke:url(#wave);stroke-width:2.2;fill:none;stroke-linecap:round;filter:url(#softGlow);opacity:.26;animation:gridPulse 3.2s ease-in-out infinite}
+      .float{animation:float 5.2s ease-in-out infinite}
+      .pulseText{animation:textPulse 2.8s ease-in-out infinite}
+      .dash{stroke-dasharray:14 16;animation:dash 16s linear infinite}
+      .orb{animation:orb 4s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.18}50%{opacity:1}}
+      @keyframes gridPulse{0%,100%{opacity:.09}50%{opacity:.62}}
+      @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+      @keyframes dash{to{stroke-dashoffset:-420}}
+      @keyframes orb{0%,100%{opacity:.25;r:4}50%{opacity:1;r:7}}
+      @keyframes textPulse{0%,100%{opacity:.74}50%{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1600" height="760" fill="url(#bg)"/>
+  <rect width="1600" height="760" fill="url(#glowPink)" opacity="0.95"/>
+  <rect width="1600" height="760" fill="url(#glowBlue)" opacity="0.95"/>
+
+  <g opacity="0.18">
+    <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600M0 600H1600" stroke="#94a3b8"/>
+    <path d="M140 0V760M280 0V760M420 0V760M560 0V760M700 0V760M840 0V760M980 0V760M1120 0V760M1260 0V760M1400 0V760" stroke="#94a3b8"/>
+  </g>
+
+  <g class="float">
+    <rect x="358" y="165" width="884" height="340" rx="22" fill="#ffffff" fill-opacity="0.12" stroke="url(#cardStroke)" stroke-width="2.4"/>
+    <rect x="360" y="167" width="880" height="336" rx="20" fill="#ffffff" fill-opacity="0.045"/>
+    <path d="M965 166V275L1045 355H965V503" stroke="#ffffff" stroke-opacity="0.12" stroke-width="5"/>
+    <path d="M1040 166L1184 310" stroke="#ffffff" stroke-opacity="0.12" stroke-width="4"/>
+    <text x="392" y="230" class="name">NAIMUR REZA</text>
+    <text x="392" y="600" class="role">Full-Stack Web Developer</text>
+    <text x="392" y="645" class="small">Next.js • Node.js • MongoDB • TypeScript</text>
+    <g transform="translate(392 670)">
+      <circle cx="11" cy="11" r="10" fill="#00e5ff" opacity=".9"/>
+      <text x="32" y="17" class="tag">github.com/naimur-reza</text>
+      <circle cx="260" cy="11" r="10" fill="#ff2df7" opacity=".85"/>
+      <text x="282" y="17" class="tag">linkedin.com/in/naimur-reza</text>
+    </g>
+  </g>
+
+  <g transform="translate(1085 575)" opacity=".8">
+    <circle cx="0" cy="0" r="22" stroke="#00e5ff" stroke-width="4" class="dash"/>
+    <circle cx="65" cy="0" r="23" stroke="#a78bfa" stroke-width="4" class="dash"/>
+    <path d="M112 -24l24 14v28l-24 14-24-14v-28l24-14z" stroke="#22c55e" stroke-width="4" fill="none" class="dash"/>
+  </g>
+
+  <g filter="url(#bigGlow)">
+    <path class="line" d="M-80 760 C 145 645, 215 573, 355 557 C 500 539, 555 637, 705 548 C 855 459, 915 372, 1065 365 C 1218 357, 1330 256, 1620 197"/>
+    <path class="line" d="M-80 732 C 140 623, 226 552, 368 535 C 512 518, 571 613, 716 528 C 865 441, 930 352, 1080 346 C 1232 340, 1343 238, 1620 176"/>
+    <path class="line" d="M-80 704 C 138 601, 235 531, 382 514 C 526 497, 586 589, 729 508 C 878 423, 945 333, 1093 328 C 1247 322, 1357 220, 1620 155"/>
+    <path class="line" d="M-80 676 C 137 579, 247 511, 396 494 C 540 478, 602 565, 742 488 C 891 405, 960 315, 1107 310 C 1261 304, 1370 202, 1620 135"/>
+    <path class="line" d="M-80 648 C 139 558, 258 491, 410 475 C 555 459, 618 543, 756 469 C 905 388, 974 298, 1121 292 C 1276 286, 1384 184, 1620 116"/>
+    <path class="line" d="M-80 620 C 142 537, 269 472, 424 457 C 570 442, 634 521, 770 451 C 918 371, 989 281, 1134 275 C 1291 268, 1397 167, 1620 98"/>
+    <path class="line" d="M-80 592 C 148 516, 281 454, 439 440 C 585 427, 651 500, 785 433 C 932 355, 1004 265, 1149 258 C 1305 251, 1411 150, 1620 82"/>
+    <path class="line" d="M-80 564 C 155 496, 293 437, 454 424 C 602 412, 668 481, 801 416 C 947 340, 1020 250, 1164 243 C 1321 235, 1425 135, 1620 67"/>
+    <path class="line" d="M-80 536 C 164 477, 306 421, 470 410 C 619 399, 686 463, 817 400 C 962 325, 1036 236, 1180 229 C 1337 221, 1440 121, 1620 54"/>
+    <path class="line" d="M-80 508 C 174 459, 319 407, 486 397 C 637 388, 705 446, 834 386 C 978 312, 1052 224, 1196 217 C 1354 208, 1456 108, 1620 42"/>
+    <path class="line" d="M-80 480 C 186 442, 334 394, 503 386 C 655 378, 724 431, 851 373 C 994 300, 1069 213, 1213 206 C 1371 197, 1472 97, 1620 33"/>
+    <path class="line" d="M-80 452 C 200 426, 350 383, 521 376 C 675 370, 744 418, 869 362 C 1011 290, 1087 204, 1231 198 C 1388 188, 1489 88, 1620 25"/>
+  </g>
+
+  <g opacity="0.86">
+    <path class="grid" d="M70 760 C 270 610, 410 526, 555 503 C 682 483, 737 542, 845 490 C 1000 416, 1050 290, 1195 277 C 1345 263, 1448 155, 1600 98"/>
+    <path class="grid" d="M180 760 C 340 615, 480 530, 620 507 C 740 488, 795 545, 900 496 C 1038 431, 1090 315, 1228 302 C 1378 288, 1472 180, 1600 122"/>
+    <path class="grid" d="M290 760 C 420 625, 555 544, 684 522 C 800 502, 850 556, 950 511 C 1070 455, 1135 350, 1260 337 C 1400 322, 1490 215, 1600 150"/>
+    <path class="grid" d="M400 760 C 505 648, 625 574, 740 552 C 855 530, 897 576, 990 540 C 1100 496, 1160 400, 1280 385 C 1415 368, 1505 265, 1600 188"/>
+    <path class="grid" d="M510 760 C 600 685, 685 630, 785 610 C 885 590, 930 620, 1015 590 C 1122 552, 1178 475, 1290 458 C 1420 438, 1510 340, 1600 245"/>
+  </g>
+
+  <g opacity=".9">
+    <circle class="orb" cx="260" cy="610" r="4" fill="#ff2df7"/>
+    <circle class="orb" cx="720" cy="528" r="4" fill="#a78bfa"/>
+    <circle class="orb" cx="1115" cy="340" r="4" fill="#00e5ff"/>
+    <circle class="orb" cx="1385" cy="215" r="4" fill="#22c55e"/>
+  </g>
+</svg>
