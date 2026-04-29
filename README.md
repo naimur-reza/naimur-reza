@@ -1,12 +1,17 @@
 <p align="center">
-  <img src="./assets/animated-hero.svg" width="100%" alt="Naimur Reza animated developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0ea5e9,75:8b5cf6,100:22c55e&height=230&section=header&text=Naimur%20Reza&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20clean%2C%20scalable%20web%20apps&descAlignY=58&descSize=18" width="100%" alt="Naimur Reza profile banner" />
 </p>
 
-<h1 align="center">Hey, I'm Naimur Reza 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Web+Developer+from+Bangladesh;Next.js+%2B+Node.js+%2B+MongoDB+Builder;Frontend+craft+with+backend+thinking;Learning+DevOps%2C+Testing%2C+Redis+%26+CI%2FCD" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <b>Full-Stack Web Developer from Bangladesh</b><br />
-  I build clean, scalable, and user-friendly web apps with modern frontend craft and backend thinking.
+  <img src="https://komarev.com/ghpvc/?username=naimur-reza&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Production%20Grade%20Web%20Apps-22c55e?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-a78bfa?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 <p align="center">
@@ -14,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/NaimurReza3" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="mailto:naimur.rezaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -26,65 +31,52 @@
 
 ---
 
-## 🚀 About Me
+## ⚡ Who am I?
+
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
 
 ```ts
 const naimur = {
-  role: "Full-Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
-  focus: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
-  learning: ["Testing", "React Native", "Redis", "Networking", "CI/CD"],
-  goal: "Become a stronger software engineer and build production-grade systems",
+  title: "Full-Stack Web Developer",
+  basedIn: "Bangladesh 🇧🇩",
+  mainStack: ["Next.js", "React", "TypeScript", "Node.js", "Express", "MongoDB"],
+  uiWeapons: ["Tailwind CSS", "ShadCN UI", "Redux Toolkit", "Figma"],
+  currentlyLearning: ["Testing", "React Native", "Redis", "Networking", "CI/CD", "Docker"],
+  builderMode: "dashboards, CMS, APIs, full-stack products",
   mindset: "learn → build → ship → improve",
 };
 ```
 
-- 🧠 Currently sharpening my **software engineering fundamentals** and backend depth  
-- 🛠️ I enjoy building **dashboards, CMS, APIs, and full-stack products**  
-- 🌱 Exploring **DevOps, CI/CD, cloud basics, testing, and scalable architecture**  
-- 🤝 Open to collaborating on meaningful products and open-source projects  
-- ⚡ Fun fact: I love virtual games, but I love shipping real products more 😄
+I care about clean UI, maintainable code, practical backend logic, and building things that actually feel good to use. Not just pushing pixels. Not just CRUD. Real product energy.
 
 ---
 
-## 🧩 Featured Work
+## 🧠 Current Mode
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Diteck</h3>
-      <p>A full-stack agency website with dashboard, CMS, job applications, team management, review system, user queries, AI chatbot, OTP-based email verification, and AWS S3 file handling.</p>
-      <p><b>Stack:</b> Next.js, Tailwind CSS, ShadCN, Redux Toolkit, Node.js, Express.js, MongoDB, AWS S3</p>
+    <td width="33%" align="center">
+      <h3>Frontend Craft</h3>
+      <p>Modern UI, responsive layouts, component systems, smooth UX.</p>
     </td>
-    <td width="50%">
-      <h3>Tasty Drop</h3>
-      <p>A modern food-related web project focused on clean UI, smooth user experience, and practical product flow.</p>
-      <p><b>Focus:</b> Frontend architecture, responsive design, reusable components</p>
+    <td width="33%" align="center">
+      <h3>Backend Depth</h3>
+      <p>REST APIs, auth flows, database modeling, scalable app structure.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Lost & Found</h3>
-      <p>A practical platform for reporting and discovering lost items with a user-friendly flow and structured data handling.</p>
-      <p><b>Focus:</b> Full-stack flow, API integration, UX clarity</p>
-    </td>
-    <td width="50%">
-      <h3>Learning Lab</h3>
-      <p>Experimenting with backend, Docker, AWS, DevOps fundamentals, URL shortener architecture, and production-ready deployment patterns.</p>
-      <p><b>Focus:</b> Backend + DevOps growth</p>
+    <td width="33%" align="center">
+      <h3>DevOps Path</h3>
+      <p>Docker, AWS basics, CI/CD, deployment, production mindset.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,shadcn,nodejs,express,mongodb,postgres,prisma,firebase,appwrite,python,c,cpp,git,github,docker,aws,vercel,netlify,vscode,figma&perline=14" alt="Tech stack icons" />
 </p>
-
-### What I usually work with
 
 <table>
   <tr>
@@ -100,18 +92,18 @@ const naimur = {
     <td>AWS S3, Docker, Git, GitHub, Vercel, Netlify, Firebase, Appwrite</td>
   </tr>
   <tr>
-    <td><b>Currently Growing</b></td>
+    <td><b>Leveling Up</b></td>
     <td>Testing, Redis, CI/CD, Basic Networking, DevOps fundamentals, React Native</td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naimur-reza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Naimur Reza GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=naimur-reza&theme=tokyonight&hide_border=true" alt="Naimur Reza GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naimur-reza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=480" alt="Naimur Reza GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=naimur-reza&theme=tokyonight&hide_border=true&card_width=480" alt="Naimur Reza GitHub streak" />
 </p>
 
 <p align="center">
@@ -129,16 +121,16 @@ const naimur = {
 ## 🎯 2026 Focus
 
 ```txt
-01. Build stronger backend fundamentals
-02. Learn Redis, networking, testing, and CI/CD properly
-03. Improve system design and production architecture thinking
-04. Contribute more to open-source and real-world projects
-05. Become a better software engineer, not just a framework user
+> Build stronger backend fundamentals
+> Learn Redis, networking, testing, and CI/CD properly
+> Think more in systems, architecture, and production reliability
+> Contribute to useful open-source projects
+> Become a better software engineer, not just a framework user
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/naimur-reza" target="_blank">
@@ -153,5 +145,9 @@ const naimur = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A78BFA,100:22C55E&height=110&section=footer" width="100%" alt="Footer wave" />
+  <b>Thanks for visiting. Now go ship something cool 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:8b5cf6,100:38bdf8&height=120&section=footer" width="100%" alt="Footer wave" />
 </p>
