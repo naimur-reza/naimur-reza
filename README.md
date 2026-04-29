@@ -102,18 +102,11 @@ I care about clean UI, maintainable code, practical backend logic, and building 
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=tokyonight" alt="Naimur Reza contribution graph" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=naimur-reza&theme=highcontrast&hide_border=false&border_radius=0&ring=FF00F5&fire=FF00F5&currStreakLabel=FF00F5&sideNums=00E5FF&sideLabels=00E5FF&dates=FFFFFF&background=0D1117&border=006AFF" alt="Naimur Reza GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=tokyonight" alt="Naimur Reza GitHub stats" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=tokyonight" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=tokyonight&utcOffset=6" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimur-reza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naimur-reza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Naimur Reza GitHub overview" />
+  <b>Consistency is the quiet proof that I am still building, learning, and getting better.</b>
 </p>
 
 ---
