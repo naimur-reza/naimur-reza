@@ -1,22 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,20,24,30&text=Naimur%20Reza&fontSize=72&fontColor=ffffff&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Frontend%20Craft%20%2B%20Backend%20Thinking&descSize=19&descAlignY=68" width="100%" alt="Naimur Reza animated profile hero" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0ea5e9,75:8b5cf6,100:22c55e&height=230&section=header&text=Naimur%20Reza&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20clean%2C%20scalable%20web%20apps&descAlignY=58&descSize=18" width="100%" alt="Naimur Reza profile banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2300&pause=600&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=55&lines=I+turn+ideas+into+fast%2C+usable%2C+production-ready+web+apps.;Next.js+%2B+Node.js+%2B+MongoDB+%3D+my+daily+playground.;Clean+UI.+Solid+APIs.+Real+product+thinking.;Learning+DevOps%2C+Testing%2C+Redis+and+CI%2FCD+like+a+maniac." alt="Animated typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Web+Developer+from+Bangladesh;Next.js+%2B+Node.js+%2B+MongoDB+Builder;Frontend+craft+with+backend+thinking;Learning+DevOps%2C+Testing%2C+Redis+%26+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Not+just+a+framework+user+%E2%80%94+I+build+with+product%2C+performance%2C+and+people+in+mind.;I+care+about+the+details+users+feel+but+cannot+always+explain.;My+goal%3A+become+the+engineer+teams+trust+when+things+need+to+ship+properly." alt="Animated value statement" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=naimur-reza&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Mode-Build%20%7C%20Learn%20%7C%20Ship-22c55e?style=for-the-badge" alt="Current mode" />
-  <img src="https://img.shields.io/badge/Open%20To-Full--Stack%20Roles-a78bfa?style=for-the-badge" alt="Open to roles" />
-  <img src="https://img.shields.io/badge/Based%20In-Bangladesh-38bdf8?style=for-the-badge" alt="Bangladesh" />
+  <img src="https://img.shields.io/badge/Focus-Production%20Grade%20Web%20Apps-22c55e?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-a78bfa?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 <p align="center">
@@ -34,86 +29,43 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:020617&height=2&section=header" width="100%" alt="divider" />
-</p>
+---
 
-## 🧬 Developer DNA
+## ⚡ Who am I?
 
-<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
 
 ```ts
 const naimur = {
-  role: "Full-Stack Web Developer",
-  base: "Bangladesh 🇧🇩",
-  specialty: "frontend experience with backend ownership",
-  stack: ["Next.js", "React", "TypeScript", "Node.js", "Express", "MongoDB"],
-  style: "clean UI, practical architecture, readable code, fast iteration",
-  currentlyLevelingUp: ["Testing", "Redis", "Docker", "CI/CD", "Networking", "React Native"],
-  mission: "build products that look sharp, work smoothly, and survive real users",
+  title: "Full-Stack Web Developer",
+  basedIn: "Bangladesh 🇧🇩",
+  mainStack: ["Next.js", "React", "TypeScript", "Node.js", "Express", "MongoDB"],
+  uiWeapons: ["Tailwind CSS", "ShadCN UI", "Redux Toolkit", "Figma"],
+  currentlyLearning: ["Testing", "React Native", "Redis", "Networking", "CI/CD", "Docker"],
+  builderMode: "dashboards, CMS, APIs, full-stack products",
+  mindset: "learn → build → ship → improve",
 };
 ```
 
-I am the kind of developer who does not stop at *“it works on my machine.”*  
-I think about the user flow, the API contract, the database shape, the loading state, the edge case, the deploy, and the tiny UI detail that makes a product feel premium.
-
-> Good software is not just code. It is clarity, speed, trust, and taste — shipped together.
+I care about clean UI, maintainable code, practical backend logic, and building things that actually feel good to use. Not just pushing pixels. Not just CRUD. Real product energy.
 
 ---
 
-## 💼 Why HR / Teams Should Care
+## 🧠 Current Mode
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚀 I ship, not just study</h3>
-      <p>I have built real full-stack products with dashboards, CMS flows, APIs, authentication, file handling, and production-style features.</p>
+    <td width="33%" align="center">
+      <h3>Frontend Craft</h3>
+      <p>Modern UI, responsive layouts, component systems, smooth UX.</p>
     </td>
-    <td width="50%">
-      <h3>🧠 I think beyond UI</h3>
-      <p>I care about architecture, backend structure, database design, performance, maintainability, and how the product behaves after deployment.</p>
+    <td width="33%" align="center">
+      <h3>Backend Depth</h3>
+      <p>REST APIs, auth flows, database modeling, scalable app structure.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 I learn aggressively</h3>
-      <p>My current roadmap is focused on becoming a stronger engineer: testing, Redis, networking, Docker, CI/CD, and DevOps fundamentals.</p>
-    </td>
-    <td width="50%">
-      <h3>🤝 I bring team energy</h3>
-      <p>I like clean communication, ownership, feedback, and building things that make the whole team proud. No ego, just improvement.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚙️ Current Operating System
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-38bdf8?style=for-the-badge" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MongoDB-22c55e?style=for-the-badge" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/UI-Tailwind%20%7C%20ShadCN%20%7C%20Figma-a78bfa?style=for-the-badge" alt="UI stack" />
-  <img src="https://img.shields.io/badge/Growing-Docker%20%7C%20Redis%20%7C%20CI%2FCD-f59e0b?style=for-the-badge" alt="Learning stack" />
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>Build</h3>
-      <p>Dashboards, CMS, APIs, auth flows, responsive web apps.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Polish</h3>
-      <p>Clean layouts, reusable components, smooth UX, tiny details.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Scale</h3>
-      <p>Better structure, database thinking, caching mindset, maintainability.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Ship</h3>
-      <p>Git, deployment, debugging, iteration, and ownership.</p>
+    <td width="33%" align="center">
+      <h3>DevOps Path</h3>
+      <p>Docker, AWS basics, CI/CD, deployment, production mindset.</p>
     </td>
   </tr>
 </table>
@@ -166,23 +118,15 @@ I think about the user flow, the API contract, the database shape, the loading s
 
 ---
 
-## 🎯 2026 Engineering Quest
+## 🎯 2026 Focus
 
 ```txt
-[01] Master backend fundamentals deeply
-[02] Learn Redis, networking, testing, and CI/CD properly
-[03] Build production-grade systems with better architecture
-[04] Contribute to useful open-source projects
-[05] Become the engineer teams trust when the product must ship
+> Build stronger backend fundamentals
+> Learn Redis, networking, testing, and CI/CD properly
+> Think more in systems, architecture, and production reliability
+> Contribute to useful open-source projects
+> Become a better software engineer, not just a framework user
 ```
-
----
-
-## 🧲 The Signal
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=I+am+not+chasing+hype.+I+am+building+depth.;Every+project+is+a+chance+to+write+cleaner+code+than+yesterday.;Give+me+a+problem%2C+I+will+turn+it+into+a+product+experience." alt="Animated engineering signal" />
-</p>
 
 ---
 
@@ -205,5 +149,5 @@ I think about the user flow, the API contract, the database shape, the loading s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:8b5cf6,100:38bdf8&height=130&section=footer&animation=twinkling" width="100%" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:8b5cf6,100:38bdf8&height=120&section=footer" width="100%" alt="Footer wave" />
 </p>
