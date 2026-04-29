@@ -1,0 +1,90 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="116" y1="98" x2="1058" y2="321" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.48" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.219 0 0 0 0 0.741 0 0 0 0 0.973 0 0 0 0.55 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="420" rx="34"/>
+    </clipPath>
+    <style>
+      .title{font:800 66px 'Segoe UI',Arial,sans-serif;fill:#f8fafc;letter-spacing:-1.8px}
+      .subtitle{font:600 25px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}
+      .tiny{font:600 16px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}
+      .mono{font:700 17px 'Consolas','Courier New',monospace;fill:#dbeafe}
+      .pill{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#e0f2fe}
+      .float{animation:float 5s ease-in-out infinite}
+      .float2{animation:float 6s ease-in-out infinite;animation-delay:-1.5s}
+      .pulse{animation:pulse 2.8s ease-in-out infinite}
+      .dash{stroke-dasharray:12 18;animation:dash 18s linear infinite}
+      .blink{animation:blink 1s steps(2,end) infinite}
+      .spin{transform-origin:1000px 98px;animation:spin 18s linear infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+      @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+      @keyframes dash{to{stroke-dashoffset:-420}}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <circle cx="165" cy="86" r="160" fill="#0ea5e9" opacity="0.18" filter="url(#glow)"/>
+    <circle cx="1046" cy="302" r="188" fill="#8b5cf6" opacity="0.18" filter="url(#glow)"/>
+    <path d="M70 316C227 192 343 347 501 217C660 86 758 269 926 145C1039 62 1113 107 1166 148" stroke="url(#accent)" stroke-width="3" opacity="0.55" class="dash"/>
+    <g opacity="0.23">
+      <path d="M0 360H1200M0 300H1200M0 240H1200M0 180H1200M0 120H1200M0 60H1200" stroke="#94a3b8"/>
+      <path d="M90 0V420M180 0V420M270 0V420M360 0V420M450 0V420M540 0V420M630 0V420M720 0V420M810 0V420M900 0V420M990 0V420M1080 0V420" stroke="#94a3b8"/>
+    </g>
+    <g transform="translate(72 72)">
+      <rect x="0" y="0" width="640" height="276" rx="28" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.14"/>
+      <text x="34" y="64" class="tiny">Hi, I am</text>
+      <text x="34" y="132" class="title">Naimur Reza</text>
+      <text x="34" y="178" class="subtitle">Full-Stack Web Developer • Frontend Focused</text>
+      <text x="34" y="220" class="mono">building scalable web apps with Next.js, Node.js & MongoDB<tspan class="blink">_</tspan></text>
+      <g transform="translate(34 242)">
+        <rect width="112" height="34" rx="17" fill="#0ea5e9" opacity="0.18" stroke="#38bdf8" stroke-opacity="0.45"/>
+        <text x="19" y="22" class="pill">Next.js</text>
+        <rect x="128" width="118" height="34" rx="17" fill="#8b5cf6" opacity="0.18" stroke="#a78bfa" stroke-opacity="0.45"/>
+        <text x="149" y="22" class="pill">Node.js</text>
+        <rect x="262" width="128" height="34" rx="17" fill="#22c55e" opacity="0.16" stroke="#22c55e" stroke-opacity="0.45"/>
+        <text x="281" y="22" class="pill">MongoDB</text>
+        <rect x="406" width="112" height="34" rx="17" fill="#f59e0b" opacity="0.13" stroke="#fbbf24" stroke-opacity="0.38"/>
+        <text x="430" y="22" class="pill">AWS S3</text>
+      </g>
+    </g>
+    <g class="float" transform="translate(792 68)">
+      <rect width="310" height="122" rx="24" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.16"/>
+      <circle cx="45" cy="44" r="10" fill="#22c55e" class="pulse"/>
+      <text x="72" y="51" class="mono">status: shipping</text>
+      <text x="32" y="89" class="tiny">Clean UI • Reliable APIs • Real products</text>
+    </g>
+    <g class="float2" transform="translate(818 228)">
+      <rect width="300" height="106" rx="24" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="30" y="44" class="mono">const mindset =</text>
+      <text x="30" y="76" class="mono" fill="#bbf7d0">'learn → build → improve'</text>
+    </g>
+    <g class="spin" opacity="0.82">
+      <circle cx="1000" cy="98" r="34" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-dasharray="46 34"/>
+    </g>
+    <g opacity="0.85">
+      <circle cx="750" cy="332" r="5" fill="#38bdf8" class="pulse"/>
+      <circle cx="1120" cy="82" r="4" fill="#a78bfa" class="pulse"/>
+      <circle cx="103" cy="361" r="5" fill="#22c55e" class="pulse"/>
+    </g>
+  </g>
+</svg>
