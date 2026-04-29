@@ -1,159 +1,148 @@
-<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Naimur Reza animated neon profile cover</title>
-  <desc id="desc">Enhanced glassmorphism GitHub cover with pulsing neon wave lines, A logo, and Naimur Reza profile information.</desc>
+<svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Naimur Reza neon animated developer cover</title>
+  <desc id="desc">Clean glassmorphism developer card with A logo, Naimur Reza profile information, and pulsing neon wave lines.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1920" y2="1080" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#05070d"/>
-      <stop offset="0.48" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#030712"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070D"/>
+      <stop offset="0.52" stop-color="#0B1018"/>
+      <stop offset="1" stop-color="#05070D"/>
     </linearGradient>
 
-    <linearGradient id="neon" x1="0" y1="890" x2="1920" y2="280" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ff1cf7">
-        <animate attributeName="stop-color" values="#ff1cf7;#a855f7;#00f0ff;#ff1cf7" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="waveGradient" x1="0" y1="720" x2="1600" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF27F8">
+        <animate attributeName="stop-color" values="#FF27F8;#8B5CF6;#00E5FF;#FF27F8" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="0.5" stop-color="#8b5cf6">
-        <animate attributeName="stop-color" values="#8b5cf6;#00f0ff;#ff1cf7;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0.48" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#00E5FF;#FF27F8;#8B5CF6" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="1" stop-color="#00f0ff">
-        <animate attributeName="stop-color" values="#00f0ff;#22c55e;#38bdf8;#00f0ff" dur="6s" repeatCount="indefinite"/>
+      <stop offset="1" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#22C55E;#38BDF8;#00E5FF" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <linearGradient id="cardFill" x1="432" y1="232" x2="1488" y2="850" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
-      <stop offset="0.52" stop-color="#ffffff" stop-opacity="0.09"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0.045"/>
+    <linearGradient id="cardFill" x1="360" y1="170" x2="1240" y2="570" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.24"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.105"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.055"/>
     </linearGradient>
 
-    <linearGradient id="cardBorder" x1="430" y1="230" x2="1490" y2="850" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ffffff" stop-opacity="0.75"/>
-      <stop offset="0.5" stop-color="#ff1cf7" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#00f0ff" stop-opacity="0.7"/>
+    <linearGradient id="cardStroke" x1="360" y1="170" x2="1240" y2="570" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.72"/>
+      <stop offset="0.45" stop-color="#FF27F8" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0.66"/>
     </linearGradient>
 
-    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(410 845) rotate(-16) scale(600 230)">
-      <stop stop-color="#ff1cf7" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#ff1cf7" stop-opacity="0"/>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(315 650) rotate(-18) scale(455 175)">
+      <stop stop-color="#FF27F8" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#FF27F8" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 445) rotate(-18) scale(700 260)">
-      <stop stop-color="#00f0ff" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1190 330) rotate(-18) scale(560 190)">
+      <stop stop-color="#00E5FF" stop-opacity="0.64"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
     </radialGradient>
 
-    <filter id="blurGlow" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.23 0 0 0 0 0.9 0 0 0 0 1 0 0 0 0.9 0"/>
+    <filter id="lineGlow" x="-25%" y="-45%" width="150%" height="210%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.23 0 0 0 0 0.86 0 0 0 0 1 0 0 0 0.95 0"/>
       <feMerge>
         <feMergeNode/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="28" stdDeviation="35" flood-color="#000000" flood-opacity="0.45"/>
-    </filter>
-
-    <filter id="cardBlur" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="0.7"/>
+    <filter id="cardShadow" x="-12%" y="-18%" width="124%" height="136%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.48"/>
     </filter>
 
     <style>
-      .name{font:800 46px 'Segoe UI',Arial,sans-serif;letter-spacing:15px;fill:#f8fafc}
-      .role{font:500 40px 'Segoe UI',Arial,sans-serif;fill:#e5e7eb;opacity:.9}
-      .stack{font:600 23px 'Segoe UI',Arial,sans-serif;fill:#dbeafe;opacity:.88}
-      .meta{font:700 21px 'Segoe UI',Arial,sans-serif;fill:#f8fafc;opacity:.86}
-      .tag{font:800 18px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#9ff7ff}
-      .logo{font:900 210px 'Segoe UI',Arial,sans-serif;fill:none;stroke:#ffffff;stroke-width:7;stroke-opacity:.22;letter-spacing:-10px}
-      .logoSmall{font:900 72px 'Segoe UI',Arial,sans-serif;fill:#ffffff;opacity:.9}
-      .wave{stroke:url(#neon);stroke-width:3.4;fill:none;stroke-linecap:round;filter:url(#blurGlow);opacity:.26;animation:pulse 3s ease-in-out infinite, floatWave 8s ease-in-out infinite}
-      .wave:nth-of-type(2n){animation-delay:-.42s}
-      .wave:nth-of-type(3n){animation-delay:-.84s}
-      .wave:nth-of-type(4n){animation-delay:-1.26s}
-      .thread{stroke:url(#neon);stroke-width:2.2;fill:none;stroke-linecap:round;filter:url(#blurGlow);opacity:.18;animation:threadPulse 3.6s ease-in-out infinite}
-      .dash{stroke-dasharray:18 22;animation:dash 18s linear infinite}
-      .cardFloat{animation:cardFloat 5.8s ease-in-out infinite}
-      .blink{animation:blink 1.1s steps(2,end) infinite}
+      .name{font:800 38px 'Segoe UI',Arial,sans-serif;letter-spacing:12px;fill:#F8FAFC}
+      .role{font:500 34px 'Segoe UI',Arial,sans-serif;fill:#E5E7EB;opacity:.92}
+      .stack{font:700 19px 'Segoe UI',Arial,sans-serif;fill:#DBEAFE;opacity:.9}
+      .meta{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#F8FAFC;opacity:.9}
+      .tag{font:800 15px 'Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#BFF8FF}
+      .logoMark{font:900 124px 'Segoe UI',Arial,sans-serif;fill:none;stroke:#F8FAFC;stroke-width:5;stroke-opacity:.24}
+      .wave{stroke:url(#waveGradient);stroke-width:2.6;fill:none;stroke-linecap:round;filter:url(#lineGlow);opacity:.2;animation:pulse 3.1s ease-in-out infinite, drift 7s ease-in-out infinite}
+      .wave:nth-child(2n){animation-delay:-.35s}
+      .wave:nth-child(3n){animation-delay:-.7s}
+      .wave:nth-child(4n){animation-delay:-1.05s}
+      .thinWave{stroke:url(#waveGradient);stroke-width:1.4;fill:none;stroke-linecap:round;opacity:.15;animation:thinPulse 3.8s ease-in-out infinite}
+      .dash{stroke-dasharray:12 16;animation:dash 18s linear infinite}
+      .floatCard{animation:floatCard 5.5s ease-in-out infinite}
       .orb{animation:orb 3.2s ease-in-out infinite}
-      @keyframes pulse{0%,100%{opacity:.12}50%{opacity:1}}
-      @keyframes threadPulse{0%,100%{opacity:.08}50%{opacity:.56}}
-      @keyframes floatWave{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
-      @keyframes cardFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
-      @keyframes dash{to{stroke-dashoffset:-520}}
-      @keyframes blink{50%{opacity:.15}}
-      @keyframes orb{0%,100%{opacity:.28;r:4}50%{opacity:1;r:8}}
+      @keyframes pulse{0%,100%{opacity:.13}50%{opacity:.95}}
+      @keyframes thinPulse{0%,100%{opacity:.06}50%{opacity:.42}}
+      @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      @keyframes floatCard{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+      @keyframes dash{to{stroke-dashoffset:-360}}
+      @keyframes orb{0%,100%{opacity:.25;r:3.5}50%{opacity:1;r:6}}
     </style>
   </defs>
 
-  <rect width="1920" height="1080" fill="url(#bg)"/>
-  <rect width="1920" height="1080" fill="url(#pinkGlow)" opacity="0.85"/>
-  <rect width="1920" height="1080" fill="url(#cyanGlow)" opacity="0.95"/>
+  <rect width="1600" height="760" fill="url(#bg)"/>
+  <rect width="1600" height="760" fill="url(#pinkGlow)"/>
+  <rect width="1600" height="760" fill="url(#cyanGlow)"/>
 
-  <g opacity="0.13">
-    <path d="M0 180H1920M0 300H1920M0 420H1920M0 540H1920M0 660H1920M0 780H1920M0 900H1920" stroke="#94a3b8"/>
-    <path d="M160 0V1080M320 0V1080M480 0V1080M640 0V1080M800 0V1080M960 0V1080M1120 0V1080M1280 0V1080M1440 0V1080M1600 0V1080M1760 0V1080" stroke="#94a3b8"/>
+  <g opacity="0.12">
+    <path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600M0 560H1600M0 640H1600" stroke="#94A3B8"/>
+    <path d="M100 0V760M230 0V760M360 0V760M490 0V760M620 0V760M750 0V760M880 0V760M1010 0V760M1140 0V760M1270 0V760M1400 0V760M1530 0V760" stroke="#94A3B8"/>
   </g>
 
-  <g class="cardFloat" filter="url(#softShadow)">
-    <rect x="430" y="230" width="1060" height="620" rx="28" fill="url(#cardFill)" stroke="url(#cardBorder)" stroke-width="2.4"/>
-    <rect x="433" y="233" width="1054" height="614" rx="25" fill="#ffffff" fill-opacity="0.035"/>
-    <path d="M1156 230V356L1252 452H1156V850" stroke="#ffffff" stroke-opacity="0.11" stroke-width="6"/>
-    <path d="M1192 230L1405 443" stroke="#ffffff" stroke-opacity="0.10" stroke-width="5"/>
-    <path d="M1210 850L1488 572" stroke="#00f0ff" stroke-opacity="0.08" stroke-width="5"/>
+  <g filter="url(#lineGlow)">
+    <path class="wave" d="M-120 675 C 160 560, 350 512, 530 530 C 660 543, 730 595, 855 520 C 990 439, 1025 350, 1155 340 C 1305 329, 1425 220, 1690 120"/>
+    <path class="wave" d="M-120 650 C 160 540, 350 495, 530 512 C 665 525, 733 570, 858 500 C 992 424, 1034 334, 1166 326 C 1315 316, 1434 205, 1690 105"/>
+    <path class="wave" d="M-120 625 C 160 520, 352 478, 532 495 C 668 507, 738 548, 864 482 C 998 410, 1045 321, 1178 313 C 1325 304, 1442 191, 1690 91"/>
+    <path class="wave" d="M-120 600 C 160 500, 355 462, 535 478 C 672 490, 745 527, 872 465 C 1005 397, 1057 309, 1190 302 C 1336 294, 1452 178, 1690 78"/>
+    <path class="wave" d="M-120 575 C 162 482, 360 448, 542 464 C 680 476, 754 509, 882 450 C 1015 387, 1071 300, 1205 293 C 1350 286, 1465 168, 1690 67"/>
+    <path class="wave" d="M-120 550 C 168 466, 368 436, 552 452 C 692 464, 766 494, 895 438 C 1027 379, 1088 294, 1222 288 C 1367 281, 1480 160, 1690 58"/>
+    <path class="wave" d="M-120 525 C 176 451, 378 426, 565 443 C 705 456, 781 484, 912 431 C 1042 378, 1106 294, 1240 290 C 1385 285, 1496 159, 1690 54"/>
+    <path class="wave" d="M-120 500 C 190 439, 392 419, 580 438 C 722 452, 800 480, 932 430 C 1060 382, 1128 301, 1262 301 C 1405 301, 1515 166, 1690 55"/>
+    <path class="wave" d="M-120 475 C 208 430, 410 416, 600 440 C 742 458, 822 485, 955 439 C 1080 396, 1150 317, 1285 324 C 1427 331, 1535 182, 1690 65"/>
+  </g>
 
-    <text x="470" y="300" class="name">NAIMUR REZA</text>
-    <text x="470" y="742" class="role">Full-Stack Web Developer</text>
-    <text x="470" y="794" class="stack">Next.js • React • TypeScript • Node.js • MongoDB</text>
+  <g opacity="0.7">
+    <path class="thinWave" d="M-100 720 C 170 590, 365 530, 560 548 C 690 560, 760 610, 885 535 C 1010 460, 1050 380, 1180 368 C 1335 354, 1450 245, 1680 165"/>
+    <path class="thinWave" d="M-100 700 C 185 585, 390 532, 580 555 C 720 572, 790 617, 915 546 C 1038 476, 1085 400, 1210 394 C 1360 386, 1470 275, 1680 195"/>
+    <path class="thinWave" d="M-100 735 C 130 595, 330 520, 520 535 C 650 545, 735 600, 855 525 C 985 445, 1025 365, 1155 350 C 1310 332, 1435 225, 1680 145"/>
+  </g>
 
-    <g transform="translate(470 820)">
-      <circle cx="13" cy="13" r="12" fill="#00f0ff" opacity="0.9"/>
-      <text x="34" y="20" class="meta">github.com/naimur-reza</text>
-      <circle cx="335" cy="13" r="12" fill="#ff1cf7" opacity="0.9"/>
-      <text x="356" y="20" class="meta">linkedin.com/in/naimur-reza</text>
-      <circle cx="760" cy="13" r="12" fill="#a78bfa" opacity="0.9"/>
-      <text x="781" y="20" class="meta">naimur.rezaa@gmail.com</text>
+  <g class="floatCard" filter="url(#cardShadow)">
+    <rect x="350" y="155" width="900" height="420" rx="22" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="2"/>
+    <rect x="353" y="158" width="894" height="414" rx="19" fill="#FFFFFF" fill-opacity="0.035"/>
+
+    <path d="M940 155V262L1018 340H940V575" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="5"/>
+    <path d="M985 155L1186 356" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="4"/>
+
+    <g transform="translate(1038 245)">
+      <circle cx="78" cy="78" r="78" stroke="#00E5FF" stroke-opacity="0.18" stroke-width="3" class="dash"/>
+      <circle cx="78" cy="78" r="56" stroke="#FF27F8" stroke-opacity="0.16" stroke-width="3" class="dash"/>
+      <text x="36" y="120" class="logoMark">A</text>
     </g>
 
-    <g transform="translate(1240 348)" opacity="0.95">
-      <text x="0" y="172" class="logo">A</text>
-      <circle cx="90" cy="92" r="92" stroke="#00f0ff" stroke-opacity="0.18" stroke-width="3" class="dash"/>
-      <circle cx="90" cy="92" r="68" stroke="#ff1cf7" stroke-opacity="0.16" stroke-width="3" class="dash"/>
+    <text x="390" y="215" class="name">NAIMUR REZA</text>
+    <text x="390" y="465" class="role">Full-Stack Web Developer</text>
+    <text x="390" y="505" class="stack">Next.js • React • TypeScript • Node.js • MongoDB</text>
+
+    <g transform="translate(390 532)">
+      <circle cx="8" cy="8" r="7.5" fill="#00E5FF"/>
+      <text x="22" y="13" class="meta">github.com/naimur-reza</text>
+      <circle cx="278" cy="8" r="7.5" fill="#FF27F8"/>
+      <text x="292" y="13" class="meta">linkedin.com/in/naimur-reza</text>
+      <circle cx="600" cy="8" r="7.5" fill="#A78BFA"/>
+      <text x="614" y="13" class="meta">naimur.rezaa@gmail.com</text>
     </g>
 
-    <g transform="translate(1228 742)">
-      <rect width="190" height="52" rx="26" fill="#ffffff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.25"/>
-      <text x="27" y="34" class="tag">BUILD • SHIP</text>
+    <g transform="translate(990 470)">
+      <rect width="128" height="36" rx="18" fill="#0F172A" fill-opacity="0.7" stroke="#00E5FF" stroke-opacity="0.3"/>
+      <text x="20" y="23" class="tag">BUILD • SHIP</text>
     </g>
   </g>
 
-  <g filter="url(#blurGlow)">
-    <path class="wave" d="M-120 1080 C 170 930, 260 835, 455 814 C 642 793, 704 920, 890 798 C 1060 686, 1125 552, 1298 550 C 1475 548, 1592 367, 2040 272"/>
-    <path class="wave" d="M-120 1045 C 168 900, 278 807, 473 790 C 660 773, 724 892, 904 776 C 1073 667, 1140 530, 1312 529 C 1488 527, 1600 345, 2040 250"/>
-    <path class="wave" d="M-120 1010 C 170 871, 296 780, 491 768 C 680 756, 744 865, 920 755 C 1086 650, 1156 510, 1328 509 C 1502 507, 1614 326, 2040 232"/>
-    <path class="wave" d="M-120 975 C 176 842, 315 756, 512 748 C 700 740, 765 840, 936 736 C 1102 635, 1174 493, 1345 492 C 1518 491, 1628 307, 2040 214"/>
-    <path class="wave" d="M-120 940 C 186 815, 335 733, 533 730 C 722 727, 787 817, 954 718 C 1118 620, 1192 478, 1363 478 C 1534 477, 1642 290, 2040 198"/>
-    <path class="wave" d="M-120 905 C 199 790, 356 712, 556 714 C 746 716, 811 796, 974 703 C 1136 610, 1212 466, 1383 466 C 1552 466, 1658 276, 2040 184"/>
-    <path class="wave" d="M-120 870 C 215 767, 379 694, 580 702 C 770 710, 837 780, 996 690 C 1156 600, 1233 456, 1404 457 C 1570 459, 1676 264, 2040 171"/>
-    <path class="wave" d="M-120 835 C 234 746, 404 678, 606 692 C 796 706, 864 766, 1020 680 C 1177 593, 1256 450, 1427 452 C 1590 454, 1695 254, 2040 160"/>
-    <path class="wave" d="M-120 800 C 255 727, 431 665, 634 686 C 824 706, 894 756, 1046 673 C 1201 589, 1281 447, 1452 450 C 1612 454, 1715 247, 2040 151"/>
-    <path class="wave" d="M-120 765 C 278 711, 460 656, 664 684 C 854 710, 926 750, 1074 670 C 1226 588, 1308 449, 1479 454 C 1636 459, 1737 244, 2040 145"/>
-    <path class="wave" d="M-120 730 C 305 698, 491 651, 696 686 C 886 719, 960 749, 1104 671 C 1254 591, 1336 455, 1508 462 C 1662 468, 1760 245, 2040 143"/>
-    <path class="wave" d="M-120 695 C 334 689, 524 651, 730 694 C 920 733, 996 755, 1136 678 C 1285 598, 1368 466, 1540 475 C 1690 483, 1785 251, 2040 145"/>
-  </g>
-
-  <g opacity="0.75">
-    <path class="thread" d="M80 1080 C 320 900, 520 785, 704 762 C 880 740, 944 820, 1110 742 C 1275 664, 1330 508, 1500 496 C 1650 485, 1760 340, 1920 250"/>
-    <path class="thread" d="M215 1080 C 420 925, 590 820, 760 795 C 925 770, 990 840, 1148 772 C 1304 704, 1370 555, 1530 542 C 1680 530, 1780 395, 1920 300"/>
-    <path class="thread" d="M350 1080 C 535 955, 670 865, 824 836 C 978 807, 1038 865, 1185 810 C 1335 754, 1404 620, 1557 604 C 1705 588, 1800 465, 1920 365"/>
-    <path class="thread" d="M500 1080 C 640 990, 760 918, 892 888 C 1030 856, 1085 898, 1218 850 C 1362 798, 1432 690, 1575 668 C 1716 646, 1810 545, 1920 445"/>
-  </g>
-
-  <g opacity="0.95">
-    <circle class="orb" cx="278" cy="884" r="4" fill="#ff1cf7"/>
-    <circle class="orb" cx="780" cy="804" r="4" fill="#8b5cf6"/>
-    <circle class="orb" cx="1298" cy="550" r="4" fill="#00f0ff"/>
-    <circle class="orb" cx="1610" cy="335" r="4" fill="#22c55e"/>
+  <g opacity="0.9">
+    <circle class="orb" cx="240" cy="625" r="4" fill="#FF27F8"/>
+    <circle class="orb" cx="720" cy="516" r="4" fill="#A78BFA"/>
+    <circle class="orb" cx="1120" cy="340" r="4" fill="#00E5FF"/>
+    <circle class="orb" cx="1360" cy="205" r="4" fill="#22C55E"/>
   </g>
 </svg>
