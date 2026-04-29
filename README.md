@@ -102,7 +102,7 @@ I care about clean UI, maintainable code, practical backend logic, and building 
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=naimur-reza&theme=highcontrast&hide_border=false&border_radius=0&ring=FF00F5&fire=FF00F5&currStreakLabel=FF00F5&sideNums=00E5FF&sideLabels=00E5FF&dates=FFFFFF&background=0D1117&border=006AFF" alt="Naimur Reza GitHub streak stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=naimur-reza&theme=highcontrast&border_radius=0&ring=FF00F5&fire=FF00F5&currStreakLabel=FF00F5&sideNums=00E5FF&sideLabels=00E5FF&dates=FFFFFF&background=0D1117&border=006AFF" alt="Naimur Reza GitHub streak stats" />
 </p>
 
 <p align="center">
