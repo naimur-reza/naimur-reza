@@ -102,18 +102,18 @@ I care about clean UI, maintainable code, practical backend logic, and building 
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naimur-reza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=480" alt="Naimur Reza GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=naimur-reza&theme=tokyonight&hide_border=true&card_width=480" alt="Naimur Reza GitHub streak" />
-</p>
-
-<p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=tokyonight" alt="Naimur Reza contribution graph" />
 </p>
 
 <p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=tokyonight" alt="Naimur Reza GitHub stats" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=tokyonight" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur-reza&theme=tokyonight" alt="Most commit language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=tokyonight&utcOffset=6" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimur-reza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naimur-reza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Naimur Reza GitHub overview" />
 </p>
 
 ---
