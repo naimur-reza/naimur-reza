@@ -4,17 +4,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Web+Developer+from+Bangladesh;Next.js+%2B+Node.js+%2B+MongoDB+Builder;Frontend+craft+with+backend+thinking;Learning+DevOps%2C+Testing%2C+Redis+%26+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Frontend+Software+Engineer+from+Bangladesh;Next.js+%2B+React+%2B+TypeScript;Building+full-stack+web+apps+with+Node.js;Learning+DevOps%2C+Testing%2C+Redis+%26+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naimur-reza&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Production%20Grade%20Web%20Apps-22c55e?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Web%20Apps-22c55e?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-a78bfa?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 <p align="center">
+  <a href="https://naimur-reza.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/naimur-reza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,17 +40,20 @@
 
 ```ts
 const naimur = {
-  title: "Full-Stack Web Developer",
+  title: "Frontend Software Engineer",
   basedIn: "Bangladesh 🇧🇩",
   mainStack: ["Next.js", "React", "TypeScript", "Node.js", "Express", "MongoDB"],
-  uiWeapons: ["Tailwind CSS", "ShadCN UI", "Redux Toolkit", "Figma"],
-  currentlyLearning: ["Testing", "React Native", "Redis", "Networking", "CI/CD", "Docker"],
-  builderMode: "dashboards, CMS, APIs, full-stack products",
+  alsoWorksWith: ["PostgreSQL", "Prisma", "AWS S3", "Vercel", "Cloudinary"],
+  uiTools: ["Tailwind CSS", "ShadCN UI", "Redux Toolkit", "Figma"],
+  currentlyLearning: ["Testing", "Redis", "Networking", "CI/CD", "Docker", "AWS"],
+  builderMode: "dashboards, CMS, APIs, and full-stack products",
   mindset: "learn → build → ship → improve",
 };
 ```
 
-I care about clean UI, maintainable code, practical backend logic, and building things that actually feel good to use. Not just pushing pixels. Not just CRUD. Real product energy.
+I build fast, clean, and scalable web apps with a strong focus on frontend architecture and real product experience. Most of my work revolves around Next.js, React, TypeScript, dashboards, CMS features, APIs, and performance-focused UI.
+
+I enjoy turning complex requirements into smooth user experiences. Not just pushing pixels. Not just CRUD. Real product energy.
 
 ---
 
@@ -60,12 +66,12 @@ I care about clean UI, maintainable code, practical backend logic, and building 
       <p>Modern UI, responsive layouts, component systems, smooth UX.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Backend Depth</h3>
-      <p>REST APIs, auth flows, database modeling, scalable app structure.</p>
+      <h3>Full-Stack Growth</h3>
+      <p>REST APIs, auth flows, database modeling, and scalable app structure.</p>
     </td>
     <td width="33%" align="center">
       <h3>DevOps Path</h3>
-      <p>Docker, AWS basics, CI/CD, deployment, production mindset.</p>
+      <p>Docker, AWS basics, CI/CD, deployment, and production mindset.</p>
     </td>
   </tr>
 </table>
@@ -89,11 +95,11 @@ I care about clean UI, maintainable code, practical backend logic, and building 
   </tr>
   <tr>
     <td><b>Cloud / Tools</b></td>
-    <td>AWS S3, Docker, Git, GitHub, Vercel, Netlify, Firebase, Appwrite</td>
+    <td>AWS S3, Docker, Git, GitHub, Vercel, Netlify, Firebase, Appwrite, Cloudinary</td>
   </tr>
   <tr>
     <td><b>Leveling Up</b></td>
-    <td>Testing, Redis, CI/CD, Basic Networking, DevOps fundamentals, React Native</td>
+    <td>Testing, Redis, CI/CD, Basic Networking, DevOps fundamentals, AWS</td>
   </tr>
 </table>
 
